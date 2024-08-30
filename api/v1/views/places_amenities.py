@@ -2,6 +2,8 @@
 """
 route for handling place and amenities linking
 """
+
+
 from flask import jsonify, abort
 from os import getenv
 
